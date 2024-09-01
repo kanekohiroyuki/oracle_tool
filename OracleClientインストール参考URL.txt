@@ -1,0 +1,9 @@
+https://stackoverflow.com/questions/62529858/how-to-set-java-library-path-when-install-oracle-18c-on-centos8-2
+
+https://dekiruengineer.com/engineer/oracle-client-for-linux/
+
+https://www.kenti.jp/archives/598
+
+https://docs.oracle.com/cd/E96517_01/lacli/creating-an-oracle-software-owner-user.html#GUID-82E64E2A-FC6B-4858-B2BB-09130CF80F2E
+
+https://www.rootlinks.net/2022/01/31/rhel8%E3%81%ABoracle-database-client%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB/
